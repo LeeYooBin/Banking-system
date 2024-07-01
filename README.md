@@ -18,7 +18,7 @@ O Currency Converter é um aplicativo de linha de comando para conversão de moe
 1. **Clone o repositório:**
 
 ```sh
-git clone https://github.com/LeeYooBin/currency-converter-cli.git
+git clone https://github.com/LeeYooBin/Currency-converter.git
 cd currency-converter
 ```
 2. **Compile o projeto usando Maven**
